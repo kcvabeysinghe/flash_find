@@ -28,8 +28,10 @@ I built this tool to search **1.4 million files** in less than **25 milliseconds
 1.  Go to the [Releases Page](https://github.com/kcvabeysinghe/flash_find/releases).
 2.  Download `flash_find.exe`.
 3.  Run it. (No installation required!)
+4.  **Important:** Click the **"Update Index"** button once to scan your PC. (This takes about 1 minute).
 
 ## 🛠️ Technology
 * **Language:** Rust 🦀
 * **GUI:** Iced (Hardware Accelerated)
+
 * **Engine:** Custom Parallel RAM Scanner
